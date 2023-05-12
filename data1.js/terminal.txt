@@ -1,0 +1,14 @@
+PS C:\Users\User\Documents\back-end\TRAINING\LEC3> node app.js egypt      
+ERROR undefined
+DATA { longitude: 29.871903452398, latitude: 26.4941838299718 }
+ERROR :  undefined
+DATA :  El-Kawamil It is Clear and temp : 28.3
+PS C:\Users\User\Documents\back-end\TRAINING\LEC3> node app.js usasdasdasd
+ERROR You didn't enter any location
+DATA undefined
+Invalid Data forusasdasdasd
+PS C:\Users\User\Documents\back-end\TRAINING\LEC3> node app.js usasdasdasd
+ERROR You didn't enter any location
+DATA undefined
+Invalid Data for : usasdasdasd
+PS C:\Users\User\Documents\back-end\TRAINING\LEC3> 
